@@ -1,11 +1,21 @@
 html {
     font-family: Arial, serif;
     background-color: #252632;
+    color: #ffffff;
 }
 
 #main-image {
-    padding-top: 50px;
-    height: 200px;
-    width: auto;
+    margin-top: 30px;
+    height: 300px;
     border-radius: 50%;
+    border: 3px white solid;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
+
+a + a {
+    margin-left: 10px;
 }
