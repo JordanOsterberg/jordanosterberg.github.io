@@ -1,9 +1,11 @@
 html {
     font-family: Arial, serif;
+    background-color: #252632;
 }
 
 #main-image {
-    height: 400px;
+    padding-top: 50px;
+    height: 200px;
     width: auto;
     border-radius: 50%;
 }
