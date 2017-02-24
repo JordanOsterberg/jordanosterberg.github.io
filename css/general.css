@@ -1,3 +1,9 @@
 html {
     font-family: Arial, serif;
 }
+
+#main-image {
+    height: 400px;
+    width: auto;
+    border-radius: 50%;
+}
